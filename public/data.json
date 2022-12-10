@@ -7,8 +7,8 @@
     "number": "1",
     "rarity": "Common",
     "images": {
-      "small": "https://images.pokemontcg.io/sm35/1.png",
-      "large": "https://images.pokemontcg.io/sm35/1_hires.png"
+      "small": "https://dsc.cloud/3d32fc/Card.png",
+      "large": "https://dsc.cloud/3d32fc/Card.png"
     }
   },
   {
@@ -223,32 +223,32 @@
     "number": "21",
     "rarity": "Rare Holo V",
     "images": {
-      "small": "https://images.pokemontcg.io/swsh3/21.png",
-      "large": "https://images.pokemontcg.io/swsh3/21_hires.png"
+      "small": "https://dsc.cloud/3d32fc/Brandon-3.png",
+      "large": "https://dsc.cloud/3d32fc/Brandon-3.png"
     }
   },
   {
     "id": "swsh1-141",
     "name": "Snorlax V",
     "supertype": "Pokémon",
-    "subtypes": ["Basic", "V"],
+    "subtypes": ["Basic", ""],
     "number": "141",
     "rarity": "Rare Holo V",
     "images": {
-      "small": "https://images.pokemontcg.io/swsh1/141.png",
-      "large": "https://images.pokemontcg.io/swsh1/141_hires.png"
+      "small": "",
+      "large": ""
     }
   },
   {
     "id": "swsh10-53",
     "name": "Hisuian Typhlosion V",
     "supertype": "Pokémon",
-    "subtypes": ["Basic", "V"],
+    "subtypes": ["Basic", ""],
     "number": "53",
     "rarity": "Rare Holo V",
     "images": {
-      "small": "https://images.pokemontcg.io/swsh10/53.png",
-      "large": "https://images.pokemontcg.io/swsh10/53_hires.png"
+      "small": "",
+      "large": ""
     }
   },
   {
